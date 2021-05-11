@@ -1,6 +1,6 @@
 ### Hi there, i'm Vitaly 👋
 #### Im beginner specialist in testing, test automation!
-![Im beginner specialist in testing, test automation!](https://raw.githubusercontent.com/scoleac/scoleac/main/github-banner.jpg)
+![Im beginner specialist in testing, test automation!](https://raw.githubusercontent.com/scoleac/scoleac/main/github-banners.jpg)
 
 Purposeful. I lead an active lifestyle. As they say, he hugged everyone, raised everyone :)
 
