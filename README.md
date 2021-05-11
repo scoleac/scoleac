@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, i'm Vitaly 👋
+### Hi there, i'm Vitaly 👋
 #### Im beginner specialist in testing, test automation!
 ![Im beginner specialist in testing, test automation!](https://raw.githubusercontent.com/scoleac/scoleac/main/github-banner.jpg)
 
